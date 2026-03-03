@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Sou estudante de Técnico em Informática para Internet pelo SENAI, atualmente na fase final do curso. Possuo sólida base em desenvolvimento web, abrangendo front-end, back-end, banco de dados e integração de APIs. Destaco-me pela facilidade em resolver problemas de forma lógica e criativa, além de lidar bem com mudanças de planos e novos desafios. Tenho domínio em fundamentos de programação, UI/UX, versionamento e metodologias de projetos. Motivado por aprender continuamente e aprimorar minhas habilidades técnicas, busco aplicar meus conhecimentos em projetos reais e contribuir com soluções eficientes e inovadoras.
+Profissional de tecnologia com formação Técnica em Informática para Internet pelo SENAI e atual estudante de Ciência da Computação no IFBA. Possuo sólida base em desenvolvimento web, abrangendo front-end, back-end, banco de dados e integração de APIs. Destaco-me pela facilidade em resolver problemas de forma lógica e criativa, além de lidar bem com mudanças de planos e novos desafios. Tenho domínio em fundamentos de programação, UI/UX, versionamento e metodologias de projetos. Motivado por aprender continuamente e aprimorar minhas habilidades técnicas, busco aplicar meus conhecimentos em projetos reais e contribuir com soluções eficientes e inovadoras.
 
 
  ## 🌐 Socials:
